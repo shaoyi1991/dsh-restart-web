@@ -1,0 +1,6 @@
+# Bundle patch for dsh-restart-web
+# Registers the host-half plugin row; client-modules auto-discovers the
+# dsh.client declaration in package.json for the browser half.
+- insert:
+    - id: dsh-restart-web
+      name: 'dsh-restart-web'
