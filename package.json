@@ -2,7 +2,7 @@
   "name": "dsh-restart-web",
   "version": "1.0.0",
   "description": "One-click restart for DeepSeek Harness from the Web UI settings panel. Cross-platform (macOS, Linux, Windows).",
-  "type": "module",
+  "type": "commonjs",
   "main": "lib/index.js",
   "exports": {
     ".": "./lib/index.js",
