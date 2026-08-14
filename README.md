@@ -4,6 +4,14 @@
 
 ---
 
+## Preview / 效果预览
+
+![DSH Web Settings showing the Restart page / DSH Web 设置中的「重启」页面](assets/restart-settings.png)
+
+The screenshot shows the added **Restart** entry in DSH Web Settings.
+
+下图展示安装插件后 DSH Web 设置页新增的「重启」入口：点击即可安全重启整个 DSH 进程，页面约 5 秒后自动重新连接。
+
 <a id="english"></a>
 
 ## One-click Restart for DeepSeek Harness
